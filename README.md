@@ -1,11 +1,9 @@
-# Rust Project Template
+# Offensive Security in Rust
 
-This repository contains the basic template for new rust projects. Including a directory structure, lib.rs, and github actions.
+An attempt to condense my python code and scripts into a much more efficient single tool.
 
-## Github Actions
+## Builds and Tests
 
-Many of these actions may be combined to reduce the number of checkouts required. But for the purposes of this repository, they are kept separate to allow for easy import of any specific action.
-
-[![Build Pandoc Documentation](https://github.com/cassiepearson/rust-project-template/actions/workflows/build-docs.yml/badge.svg)](https://github.com/cassiepearson/rust-project-template/actions/workflows/build-docs.yml)
+[//]: # ([![Build Pandoc Documentation]&#40;https://github.com/cassiepearson/rust-project-template/actions/workflows/build-docs.yml/badge.svg&#41;]&#40;https://github.com/cassiepearson/rust-project-template/actions/workflows/build-docs.yml&#41;)
 [![Release build](https://github.com/cassiepearson/rust-project-template/actions/workflows/release-builds.yml/badge.svg)](https://github.com/cassiepearson/rust-project-template/actions/workflows/release-builds.yml)
 [![Unit tests](https://github.com/cassiepearson/rust-project-template/actions/workflows/unit-tests.yml/badge.svg)](https://github.com/cassiepearson/rust-project-template/actions/workflows/unit-tests.yml)
